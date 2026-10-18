@@ -1,1 +1,34 @@
+#output
+===== EMPLOYEE ID MANAGEMENT (ORIGINAL) =====
+1. Insert Employee
+2. Search Employee
+3. Display All (Sorted by ID)
+4. Exit
+Enter choice: 1
+Enter Employee ID: 103
+Enter Employee Name: Amit
+Employee Inserted!
 
+Enter choice: 1
+Enter Employee ID: 101
+Enter Employee Name: Raj
+Employee Inserted!
+
+Enter choice: 1
+Enter Employee ID: 105
+Enter Employee Name: Sneha
+Employee Inserted!
+
+Enter choice: 3
+
+--- Employee List (Sorted) ---
+ID: 101, Name: Raj
+ID: 103, Name: Amit
+ID: 105, Name: Sneha
+
+Enter choice: 2
+Enter ID to search: 101
+Found -> ID: 101, Name: Raj
+
+Enter choice: 4
+Exiting...
