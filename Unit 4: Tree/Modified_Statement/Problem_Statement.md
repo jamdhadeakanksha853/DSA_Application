@@ -1,2 +1,2 @@
 #Problem_Statement
-To develop an Employee ID Management System using a Binary Search Tree (BST) that allows users to insert, search, delete, and display employee records efficiently based on Employee ID.
+To develop an enhanced Employee ID Management System using a Binary Search Tree (BST) that stores employee names along with unique employee IDs,displays employee records in ascending order of IDs,and counts the number of comparisons required to search for an employee.
