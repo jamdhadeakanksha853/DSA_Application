@@ -1,2 +1,2 @@
 # PROblem Statement
-To design and implement a Polynomial Calculator using linked list data structures. The system should represent polynomials as nodes containing coefficients and exponents. It should perform polynomial operations such as addition, subtraction, multiplication, and display of polynomials. The project aims to demonstrate the application of linked lists in polynomial representation and manipulation.
+To implement a Polynomial Calculator using a linked list to represent polynomials and perform basic polynomial operations such as addition, subtraction, and multiplication.
