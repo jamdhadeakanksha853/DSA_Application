@@ -1,1 +1,18 @@
+Prim's Algorithm:
+Selected Roads:
+A - B : 2
+B - C : 3
+B - E : 5
+A - D : 6
 
+Total Construction Cost = 16
+
+
+Kruskal's Algorithm:
+Selected Roads:
+A - B : 2
+B - C : 3
+B - E : 5
+A - D : 6
+
+Total Construction Cost = 16
