@@ -1,1 +1,3 @@
-
+Develop a C++ program to represent a network of five different cities connected by roads with different construction costs. Apply Prim's and Kruskal's algorithms to find 
+the Minimum Spanning Tree (MST) with minimum construction cost. Display the selected roads, their individual costs, and the total minimum cost obtained using both algorithms.
+Compare the results to identify the most economical way to connect all cities.
