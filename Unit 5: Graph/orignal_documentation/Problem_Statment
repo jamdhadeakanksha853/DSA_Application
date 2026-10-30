@@ -1,1 +1,2 @@
-
+Develop a C++ program to represent a weighted road network and apply both Prim's and Kruskal's algorithms to construct a Minimum Spanning Tree (MST).
+Display the selected edges and total cost from each algorithm, then compare their total costs.
