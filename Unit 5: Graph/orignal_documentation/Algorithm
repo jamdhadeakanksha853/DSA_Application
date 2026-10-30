@@ -1,1 +1,19 @@
+PrimMST(G, V)
+Input: Weighted connected graph G, No. of vertices V
+Output: Minimum Spanning Tree and Total Cost
 
+Step 1: Start
+Step 2: Create array key[V] = {INF}, parent[V] = {-1}, mstSet[V] = {false}
+Step 3: Set key[0] = 0
+Step 4: For count = 0 to V-1 do:
+        a) Find vertex u with minimum key[u] such that mstSet[u] == false
+        b) Set mstSet[u] = true
+        c) For each vertex v from 0 to V-1:
+           If adjMatrix[u][v] != 0 AND mstSet[v] == false 
+           AND adjMatrix[u][v] < key[v] then
+              parent[v] = u
+              key[v] = adjMatrix[u][v]
+Step 5: Display edges: parent[i] - i for i=1 to V-1
+Step 6: Calculate TotalCost = sum of key[i] for i=1 to V-1
+Step 7: Display TotalCost
+Step 8: Stop
