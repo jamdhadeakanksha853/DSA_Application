@@ -1,1 +1,15 @@
+Prim's Algorithm:
+Selected Edges:
+0 - 1 : 2
+1 - 2 : 3
+1 - 4 : 5
+0 - 3 : 6
+Total Cost = 16
 
+Kruskal's Algorithm:
+Selected Edges:
+0 - 1 : 2
+1 - 2 : 3
+1 - 4 : 5
+0 - 3 : 6
+Total Cost = 16
